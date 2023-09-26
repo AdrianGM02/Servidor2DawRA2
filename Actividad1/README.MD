@@ -5,7 +5,7 @@
 
 1. Script que muestre el mensaje Hola Mundo entrecomillado.
 
-[LINK DEL PHP](1.php)
+[LINK DEL PHP](2.php)
 
 2. Ficha personal con los datos cargados en variables. El resultado debe mostrar una
 foto personal.
@@ -14,7 +14,7 @@ constante PI, calcule el área del círculo y la longitud de la circunferencia. 
 mostrar valor de radio, longitud de la circunferencia, área del círculo y dibujará un
 círculo utilizando gráficos vectoriales.
 
-[LINK DEL PHP](1.php)
+[LINK DEL PHP](3.php)
 
 
 
